@@ -2,6 +2,7 @@
 
 - [Axum](axum/ReadMe.md)
   - [路由](axum/router.md)
+  - [服务](axum/service.md)
   - [CORS](axum/cors.md)
   - [Stream](axum/stream.md)
 - [网络知识](web/ReadMe.md)
